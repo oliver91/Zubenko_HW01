@@ -1,0 +1,9 @@
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\bin\Debug\WinFormsDemo.exe.config
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\bin\Debug\WinFormsDemo.exe
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\bin\Debug\WinFormsDemo.pdb
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\obj\Debug\WinFormsDemo.csprojResolveAssemblyReference.cache
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\obj\Debug\WinFormsDemo.Form1.resources
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\obj\Debug\WinFormsDemo.Properties.Resources.resources
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\obj\Debug\WinFormsDemo.csproj.GenerateResource.Cache
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\obj\Debug\WinFormsDemo.exe
+H:\internship_hw01\Zubenko_HW01\WinFormsDemo\obj\Debug\WinFormsDemo.pdb

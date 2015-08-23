@@ -1,0 +1,13 @@
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.exe.config
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.exe
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.pdb
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\NumbersDemo\obj\Debug\NumbersDemo.exe
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\NumbersDemo\obj\Debug\NumbersDemo.pdb
+H:\internship_hw01\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.exe.config
+H:\internship_hw01\Zubenko_HW01\NumbersDemo\obj\Debug\NumbersDemo.exe
+H:\internship_hw01\Zubenko_HW01\NumbersDemo\obj\Debug\NumbersDemo.pdb
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.exe.config
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\NumbersDemo\obj\Debug\NumbersDemo.exe
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\NumbersDemo\obj\Debug\NumbersDemo.pdb
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.exe
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\NumbersDemo\bin\Debug\NumbersDemo.pdb

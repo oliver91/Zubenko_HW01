@@ -1,0 +1,11 @@
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\StringsDemo\bin\Debug\StringsDemo.exe.config
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\StringsDemo\bin\Debug\StringsDemo.exe
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\StringsDemo\bin\Debug\StringsDemo.pdb
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\StringsDemo\obj\Debug\StringsDemo.exe
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\StringsDemo\obj\Debug\StringsDemo.pdb
+H:\internship_hw01\Zubenko_HW01\StringsDemo\bin\Debug\StringsDemo.exe.config
+H:\internship_hw01\Zubenko_HW01\StringsDemo\obj\Debug\StringsDemo.exe
+H:\internship_hw01\Zubenko_HW01\StringsDemo\obj\Debug\StringsDemo.pdb
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\StringsDemo\bin\Debug\StringsDemo.exe.config
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\StringsDemo\obj\Debug\StringsDemo.exe
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\StringsDemo\obj\Debug\StringsDemo.pdb

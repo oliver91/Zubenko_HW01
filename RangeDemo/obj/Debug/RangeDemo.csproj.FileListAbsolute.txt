@@ -1,0 +1,16 @@
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.exe.config
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.exe
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.pdb
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.exe
+c:\users\oleg\documents\visual studio 2013\Projects\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.pdb
+H:\internship_hw01\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.exe.config
+H:\internship_hw01\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.exe
+H:\internship_hw01\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.pdb
+H:\internship_hw01\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.exe
+H:\internship_hw01\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.pdb
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.exe.config
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.exe
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.pdb
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.exe
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\RangeDemo\bin\Debug\RangeDemo.pdb
+C:\Users\Oliver\Desktop\internship_hw01\Zubenko_HW01\RangeDemo\obj\Debug\RangeDemo.csprojResolveAssemblyReference.cache
